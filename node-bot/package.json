@@ -1,0 +1,15 @@
+{
+    "name": "voicecord-node",
+    "version": "1.0.0",
+    "description": "Discord bot frontend for VoiceCord",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "axios": "^1.7.2",
+      "discord.js": "^14.15.3",
+      "@discordjs/voice": "^0.17.0",
+      "dotenv": "^16.4.5"
+    }
+  }
