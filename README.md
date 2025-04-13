@@ -1,4 +1,4 @@
-# 🎹 VoiceCord
+# 🎹 VoiceCord 1.0.0
 
 **VoiceCord** là một Discord bot hỗ trợ **giao tiếp thông minh bằng giọng nói** trong các kênh thoại.  
 Bot có thể **nghe lệnh từ người dùng qua micro**, **xử lý bằng AI/backend Python**, và **phản hồi tự động**.  
