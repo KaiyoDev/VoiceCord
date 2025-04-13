@@ -43,7 +43,7 @@ cd node-bot
 npm install
 npm start
 ```
-
+> Nếu lỗi thì cách khắc phục tại [SETUP.md](https://github.com/KaiyoDev/VoiceCord/blob/main/docs/SETUP.md)
 ---
 
 ## ✨ Tính năng hiện tại
