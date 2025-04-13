@@ -81,7 +81,7 @@ Bạn có thể:
 - Gửi pull request
 - Cải tiến tính năng hoặc tài liệu
 
-> Xem thêm tại [`CONTRIBUTING.md`](CONTRIBUTING.md)
+> Xem thêm tại [CONTRIBUTING.md](https://github.com/KaiyoDev/VoiceCord/blob/main/docs/CONTRIBUTING.md)
 
 ---
 
